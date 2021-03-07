@@ -4,5 +4,5 @@ int main()
 {
 std::string str;
 getline(std::cin,str);
-std::cout<<"Hello      World from "<<str;
+std::cout<<"Hello World from "<<str;
 }
