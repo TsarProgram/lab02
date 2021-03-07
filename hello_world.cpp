@@ -2,7 +2,7 @@
 #include <string>
 int main()
 {
-std::string str;
-getline(std::cin,str);
-std::cout<<"Hello World from "<<str;
+std::string str;//переменные
+getline(std::cin,str);//ввод имени
+std::cout<<"Hello World from "<<str;//вывод строки
 }
