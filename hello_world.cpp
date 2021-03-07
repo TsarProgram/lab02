@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
-using namespace std;
 int main()
 {
-cout<<"Hello World!!!\n";
+std::string str;
+getline(std::cin,str);
+std::cout<<"Hello World from "<<str;
 }
