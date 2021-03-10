@@ -3,7 +3,7 @@
 ## Part I
 
 ## Выполнение:
-[x] 1.Создайте пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
+1. [x] Создайте пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
 
 ```bash
 Command:
