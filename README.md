@@ -1,9 +1,9 @@
 ## Лабораторная работа #2
 
-##Part I
+## Part I
 
 ## Выполнение:
-[*] 1.Создайте пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
+[x] 1.Создайте пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
 
 ```bash
 Command:
