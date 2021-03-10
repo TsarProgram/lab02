@@ -1,10 +1,11 @@
-## Лабораторная работа #1
+## Лабораторная работа #2
 
+##Part I
 
 ## Выполнение:
-```bash
-1. Скачайте библиотеку boost с помощью утилиты wget. Адрес для скачивания `https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz.`
+[*] 1.Создайте пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
 
+```bash
 Command:
   $ wget https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz
   //скачивает файл, находящийся по данному адресу
